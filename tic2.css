@@ -1,0 +1,85 @@
+.chapitre1 .c1{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px 20px 20px 20px;
+    border-color: black;
+    border-style: double;
+    border-width: 3px;
+    
+
+}
+.resume1{
+    display:flex;
+    padding: 20px;
+}
+body{
+    background-image: url(https://img.freepik.com/photos-gratuite/fond-mer-plage-vide_74190-313.jpg?w=2000);
+
+background-size: contain;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color: black;
+    border-radius: 30px 30px 30px ;
+
+   
+}
+h3{
+    margin-left: 20px;
+    color: darkred;
+    text-decoration: underline;
+}
+ul{
+    margin-left: 20px;
+}
+
+
+.chapitre2 .c2{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px 20px 20px 20px;
+    border-color: black;
+    border-style: double;
+    border-width: 3px;
+    margin-left: 10px;
+    
+}
+
+.chapitre3 .c3{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px 20px 20px 20px;
+    border-color: black;
+    border-style: double;
+    border-width: 3px;
+    margin-left: 10px;
+    
+}
+.chapitre4{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px 20px 20px 20px;
+    border-color: black;
+    border-style: double;
+    border-width: 3px;
+    margin-left: 10px;  
+}
+.nom{
+    text-align: center;
+    width: 300px;
+    border-radius: 20px 20px 20px 20px;
+    border-color: black;
+    border-style: double;
+    border-width: 3px;
+    margin-left: 10px;
+    margin-left: 300px; 
+
+}
+.resume2{
+    display: flex;
+}
+.html{
+    background: local;
+    border-radius: 20px 20px 20px 20px;
+}
